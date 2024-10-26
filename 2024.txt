@@ -1,2 +1,3 @@
 20241026.time
 202410261001.holding a morning meeting.
+202410261630.c resolve json and get structure data.
